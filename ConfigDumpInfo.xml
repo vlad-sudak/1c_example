@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ДвижениеТоваров" id="a8dca82b-6864-4554-aa8d-0f5496e08ccf" configVersion="6c3111c4f198bc449c428259cf017ac800000000">
+			<Metadata name="AccumulationRegister.ДвижениеТоваров.Resource.Цена" id="f38d30a7-896e-4c32-a1ec-bda942cff32c"/>
+		</Metadata>
+		<Metadata name="Catalog.Номенклатура" id="557a6ad4-6001-4c82-84f9-50e36765de5d" configVersion="56f4c249890de6499b14da4994e2099c00000000"/>
+		<Metadata name="Catalog.Организации" id="53e56c76-0a0c-4f11-bd16-886aa04fd890" configVersion="bd3f6c9d636fe0449f414e0d8282ae7d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="4b622264-e750-421a-a599-258191dc8315" configVersion="031f54cea4b3b24e9558c5b51695755b00000000"/>
+		<Metadata name="Document.Реализация" id="bd03be1a-902c-4a31-a988-ff3f8f631d86" configVersion="19e05ef137c3624b83c315ba3e7f915000000000"/>
+		<Metadata name="Language.Русский" id="d005fb31-6d2e-4f58-8122-6d5f3d6972b5" configVersion="18d9774ab987b741a6fa407415e33c4b00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
